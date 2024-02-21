@@ -16,7 +16,7 @@ Welcome to the QR Code Generator website! This web application allows users to g
 
 [Visit the QR Code Generator Website](https://qrcode-generator-krishanu.netlify.app/)
 
-![QR Code Generator](screenshot.png)
+![QR Code Generator](Screenshot.png)
 
 ## Features
 
